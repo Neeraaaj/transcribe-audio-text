@@ -16,7 +16,7 @@ export default function Home() {
               <span className="absolute inset-x-0 w-1/2 mx-auto -bottom-px bg-gradient-to-r from-transparent via-blue-500 to-transparent  h-px" />
         </button>
       </a>
-      <Image width={300} height={200} alt="mic" src={mic} className="absolute mt-[25rem] bg-white w-[25rem] lg:w-[35rem] rounded-[4rem] mix-blend-lighten lg:rounded-[10rem]"/>
+      <Image width={300} height={200} alt="mic" src={mic} className="absolute mt-[25rem] bg-white w-[25rem] lg:w-[35rem] rounded-[4rem] mix-blend-lighten lg:rounded-[10rem] "/>
       {/* <video className="absolute mt-[20rem] bg-white w-[50rem] rounded-[3rem]" loop muted autoPlay>
         <source src="https://cdn.dribbble.com/userupload/4534176/file/original-2b2df3790f360d9dc62f543c66436a04.mp4"/>
       </video> */}

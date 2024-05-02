@@ -69,5 +69,6 @@ export const FloatingNav = ({
         </Link>
       </motion.div>
     </AnimatePresence>
+    
   );
 };
